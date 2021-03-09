@@ -7,7 +7,6 @@
     "name": "PWA",
     "short_name": "PWA",
     "description": "Progressive web application",
-    "prefer_related_applications": false,
     "icons": [
         {
             "src": "./images/manifest/icon-192x192.png",
