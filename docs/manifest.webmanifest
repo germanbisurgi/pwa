@@ -3,7 +3,7 @@
     "background_color": "#8a8a8a",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/pwa",
+    "start_url": "https://germanbisurgi.github.io/pwa",
     "name": "PWA",
     "short_name": "PWA",
     "description": "Progressive web application",
